@@ -1,6 +1,6 @@
 {
-  "banner": "ca-app-pub-55996qsd011qsddd",
-  "inter": "ca-app-pub-3940256099942544/4411468910",
-  "reward": "ca-app-pub-55996qsd515",
+  "banner": "ca-app-pub-5284546290031809/1486257704",
+  "inter": "ca-app-pub-5284546290031809/9820398512",
+  "reward": "ca-app-pub-5284546290031809/8323128799",
   "rate": "1"
 }
